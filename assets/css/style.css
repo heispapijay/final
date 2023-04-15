@@ -1,0 +1,18 @@
+/*hakai*/
+*{
+	box-sizing: border-box;
+	background-color: black;
+}
+.image {
+	width: 50%;
+	float: left;
+	/* margin-left: 30px;
+	margin-right: 40px; */
+	padding: 3px;
+}
+.text {
+	color: white;
+}
+.container6 {
+	display: inline-block;;
+}
